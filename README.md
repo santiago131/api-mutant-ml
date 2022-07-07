@@ -1,4 +1,4 @@
-###Stack
+### Stack
 *	Python
 *	BD MongoDB
 *	AWS EC2 ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-20220609
