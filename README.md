@@ -75,3 +75,9 @@ Host: 54.204.172.244:8000
 Response
 
 ```
+{
+    "count_mutant_dna": 2,
+    "count_human_dna": 5,
+    "ratio": 0.4
+}
+```
