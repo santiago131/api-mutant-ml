@@ -3,7 +3,7 @@
 *	BD MongoDB
 *	AWS EC2 ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-20220609
 *	Servidor web Uvicorn
-----
+
 ### Requerimientos
 - Python
 -	MongoDB
@@ -14,7 +14,7 @@
 	-	pydantic
 	-	numpy
 	-	pymongo
-----
+
 # Instrucciones
 `sudo apt update`
 
@@ -50,7 +50,7 @@
 `cd api/`
 
 `uvicorn main:app --reload --host 0.0.0.0`
-----
+
 # API
 **URL**: 54.204.172.244:8000
 
