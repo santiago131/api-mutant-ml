@@ -50,3 +50,27 @@
 `cd api/`
 
 `uvicorn main:app --reload --host 0.0.0.0`
+
+# API
+**URL**: 54.204.172.244:8000
+
+**ENDPOINT:**
+
+**POST /mutant/**
+```
+Host: 54.204.172.244:8000
+Content-Type: application/json
+Content-Length: 45
+
+{
+“dna”:["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
+}
+```
+
+
+**GET /stats **
+```
+Host: 54.204.172.244:8000
+```
+Response
+```
