@@ -52,11 +52,11 @@
 `uvicorn main:app --reload --host 0.0.0.0`
 
 # API
-** URL **: 54.204.172.244:8000
+**URL**: 54.204.172.244:8000
 
-** ENDPOINT: **
+**ENDPOINT:**
 
-** POST /mutant/ **
+**POST /mutant/**
 ```
 Host: 54.204.172.244:8000
 Content-Type: application/json
@@ -68,7 +68,7 @@ Content-Length: 45
 ```
 
 
-** GET /stats **
+**GET /stats**
 ```
 Host: 54.204.172.244:8000
 ```
